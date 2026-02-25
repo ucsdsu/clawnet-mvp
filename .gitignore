@@ -1,0 +1,9 @@
+node_modules/
+.env
+*.log
+.DS_Store
+clawnet/logs/
+clawnet/metrics/
+CLAWNET-REPORT.md
+clawnet-metrics.csv
+.env.local
