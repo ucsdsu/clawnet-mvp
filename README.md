@@ -19,6 +19,103 @@ Each OpenClaw in your network:
 
 **You stay in control.** ClawMoat scans every pattern for leaks. Your MEMORY.md and credentials never leave your machine.
 
+## Security & Privacy (Built-In)
+
+### What's Shared (Safe Layer)
+- ✅ Your interest graph: `Bitcoin, founder scaling, content monetization` (topics only)
+- ✅ Distilled patterns: `"use GPT 5.2 for planning"` (approach, not output)
+- ✅ Aggregate metrics: tokens saved, time, quality scores (no personal data)
+
+### What Stays Private (Always Local)
+- ❌ MEMORY.md (never shared)
+- ❌ USER.md (never shared)
+- ❌ Credentials, API keys, tokens (never shared)
+- ❌ Customer data, business secrets, financial details (never shared)
+- ❌ Specific outputs or decisions (never shared)
+
+### ClawMoat Security Scanner (Every Pattern, Every Time)
+
+Before *any* pattern leaves your machine:
+
+**Credential Detection:**
+- Detects: `api_key=`, `password:`, `token:`, `secret:`, `Authorization: Bearer`
+- Action: ❌ BLOCKS if found
+
+**PII Detection & Redaction:**
+- Emails: `jon@example.com` → `[EMAIL: jo***@***]`
+- Phone: `555-123-4567` → `[PHONE: ***-****]`
+- SSN: `123-45-6789` → `[SSN: ***-**-****]`
+- Action: ❌ QUARANTINES if >10% sensitive content
+
+**Domain Redaction:**
+- URLs: `castandspear.com` → `[REDACTED-DOMAIN]`
+- Internal IPs: `192.168.1.1` → `[REDACTED-IP]`
+- Action: ⚠️ Redacts before sending
+
+**Pattern Quality Gate:**
+- Only patterns with >0.85 embedding similarity are auto-applied
+- Quality floor: 7.0/10 (bad patterns rejected)
+- Action: 🛡️ Protects against pattern poisoning
+
+### Your Control
+
+```bash
+# Review your profile before sharing
+openclaw clawnet show-profile
+
+# Edit interests if needed
+openclaw clawnet edit-profile
+
+# Manually approve
+openclaw clawnet approve
+
+# See what you've shared
+openclaw clawnet audit-outbound
+
+# See what you've received
+openclaw clawnet audit-inbound
+
+# Stop anytime
+openclaw clawnet disconnect
+```
+
+### Key Generation (ECDSA P-256)
+
+- 256-bit elliptic curve (industry-standard, mathematically secure)
+- Private key: Saved with 600 permissions (owner-only access)
+- Public key: Shareable (644 permissions)
+- Fingerprint: Deterministic 12-character base64 identifier for verification
+
+### No Third-Party Servers
+
+- ✅ Peer-to-peer gossip (no central authority)
+- ✅ Local CRDT storage (conflict-free merging)
+- ✅ No cloud uploads (your data stays on your machine)
+- ✅ Zero telemetry (no usage tracking)
+
+### Security Audit
+
+Full audit report: See `SECURITY-AUDIT.md`
+- Rating: **8.5/10** — Approved for testing with trusted networks
+- Phase 1: Trust-based (Brenden + Dar are known, verified)
+- Phase 2 (Planned): mTLS encryption for untrusted networks
+
+### Privacy Model Philosophy
+
+**Your tribe learns how you think. They never learn what you think about.**
+
+Patterns = *approach + metrics* (how you solve problems)  
+Not = *outputs + decisions* (what you decided)
+
+Example:
+```
+Raw: "Used GPT 5.2 to decide whether to move to Malaysia. Took 2.3 min, 340 tokens, quality 9/10."
+
+Shared: "Use GPT 5.2 for strategic decisions. Metrics: 2.3 min, 340 tokens, 9/10 quality."
+
+Not shared: Your decision (Malaysia), your reasoning, your family context, your output.
+```
+
 ## Example
 
 You optimize for: `Bitcoin, founder scaling, content monetization`  
