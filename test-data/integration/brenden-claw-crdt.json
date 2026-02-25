@@ -1,0 +1,658 @@
+{
+  "log": [
+    {
+      "id": "unknown-claw-1771983807678-ajqpwds",
+      "timestamp": 1771983807678,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 1
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-jon-1",
+        "approach": "model-tier-routing",
+        "description": "Route tasks by quality tier",
+        "contexts": [
+          "planning",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 9,
+          "timeMinutes": 2.5,
+          "tokensSaved": 50
+        },
+        "confidence": 0.95,
+        "adoptedFrom": "jon-claw"
+      },
+      "hash": "-al14qc"
+    },
+    {
+      "id": "unknown-claw-1771983807678-6l2bdce",
+      "timestamp": 1771983807678,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 2
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-dar-1",
+        "approach": "design-system-tokens",
+        "description": "Token-based design",
+        "contexts": [
+          "design",
+          "optimization"
+        ],
+        "metrics": {
+          "qualityScore": 8.9,
+          "timeMinutes": 20,
+          "tokensSaved": 400
+        },
+        "confidence": 0.93,
+        "adoptedFrom": "dar-claw"
+      },
+      "hash": "r39wye"
+    },
+    {
+      "id": "unknown-claw-1771983807682-ilz39f5",
+      "timestamp": 1771983807682,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 3
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-jon-1",
+        "approach": "model-tier-routing",
+        "description": "Route tasks by quality tier",
+        "contexts": [
+          "planning",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 9,
+          "timeMinutes": 2.5,
+          "tokensSaved": 50
+        },
+        "confidence": 0.95,
+        "adoptedFrom": "jon-claw"
+      },
+      "hash": "-al14qc"
+    },
+    {
+      "id": "unknown-claw-1771983807682-sjgx098",
+      "timestamp": 1771983807682,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 4
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-dar-1",
+        "approach": "design-system-tokens",
+        "description": "Token-based design",
+        "contexts": [
+          "design",
+          "optimization"
+        ],
+        "metrics": {
+          "qualityScore": 8.9,
+          "timeMinutes": 20,
+          "tokensSaved": 400
+        },
+        "confidence": 0.93,
+        "adoptedFrom": "dar-claw"
+      },
+      "hash": "r39wye"
+    },
+    {
+      "id": "unknown-claw-1771983807685-wx6xufb",
+      "timestamp": 1771983807685,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 5
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-jon-1",
+        "approach": "model-tier-routing",
+        "description": "Route tasks by quality tier",
+        "contexts": [
+          "planning",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 9,
+          "timeMinutes": 2.5,
+          "tokensSaved": 50
+        },
+        "confidence": 0.95,
+        "adoptedFrom": "jon-claw"
+      },
+      "hash": "-al14qc"
+    },
+    {
+      "id": "unknown-claw-1771983807685-hs3ru2k",
+      "timestamp": 1771983807685,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 6
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-dar-1",
+        "approach": "design-system-tokens",
+        "description": "Token-based design",
+        "contexts": [
+          "design",
+          "optimization"
+        ],
+        "metrics": {
+          "qualityScore": 8.9,
+          "timeMinutes": 20,
+          "tokensSaved": 400
+        },
+        "confidence": 0.93,
+        "adoptedFrom": "dar-claw"
+      },
+      "hash": "r39wye"
+    },
+    {
+      "id": "unknown-claw-1771983807687-oy6fnky",
+      "timestamp": 1771983807687,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 7
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-jon-1",
+        "approach": "model-tier-routing",
+        "description": "Route tasks by quality tier",
+        "contexts": [
+          "planning",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 9,
+          "timeMinutes": 2.5,
+          "tokensSaved": 50
+        },
+        "confidence": 0.95,
+        "adoptedFrom": "jon-claw"
+      },
+      "hash": "-al14qc"
+    },
+    {
+      "id": "unknown-claw-1771983807687-qchklz0",
+      "timestamp": 1771983807687,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 8
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-dar-1",
+        "approach": "design-system-tokens",
+        "description": "Token-based design",
+        "contexts": [
+          "design",
+          "optimization"
+        ],
+        "metrics": {
+          "qualityScore": 8.9,
+          "timeMinutes": 20,
+          "tokensSaved": 400
+        },
+        "confidence": 0.93,
+        "adoptedFrom": "dar-claw"
+      },
+      "hash": "r39wye"
+    },
+    {
+      "id": "unknown-claw-1771983807690-v7qnv51",
+      "timestamp": 1771983807690,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 9
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-jon-1",
+        "approach": "model-tier-routing",
+        "description": "Route tasks by quality tier",
+        "contexts": [
+          "planning",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 9,
+          "timeMinutes": 2.5,
+          "tokensSaved": 50
+        },
+        "confidence": 0.95,
+        "adoptedFrom": "jon-claw"
+      },
+      "hash": "-al14qc"
+    },
+    {
+      "id": "unknown-claw-1771983807690-1nl203o",
+      "timestamp": 1771983807690,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 10
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-dar-1",
+        "approach": "design-system-tokens",
+        "description": "Token-based design",
+        "contexts": [
+          "design",
+          "optimization"
+        ],
+        "metrics": {
+          "qualityScore": 8.9,
+          "timeMinutes": 20,
+          "tokensSaved": 400
+        },
+        "confidence": 0.93,
+        "adoptedFrom": "dar-claw"
+      },
+      "hash": "r39wye"
+    },
+    {
+      "id": "unknown-claw-1771983807694-2tht3o2",
+      "timestamp": 1771983807694,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 11
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-jon-1",
+        "approach": "model-tier-routing",
+        "description": "Route tasks by quality tier",
+        "contexts": [
+          "planning",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 9,
+          "timeMinutes": 2.5,
+          "tokensSaved": 50
+        },
+        "confidence": 0.95,
+        "adoptedFrom": "jon-claw"
+      },
+      "hash": "-al14qc"
+    },
+    {
+      "id": "unknown-claw-1771983807694-8tt2nws",
+      "timestamp": 1771983807694,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 12
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-dar-1",
+        "approach": "design-system-tokens",
+        "description": "Token-based design",
+        "contexts": [
+          "design",
+          "optimization"
+        ],
+        "metrics": {
+          "qualityScore": 8.9,
+          "timeMinutes": 20,
+          "tokensSaved": 400
+        },
+        "confidence": 0.93,
+        "adoptedFrom": "dar-claw"
+      },
+      "hash": "r39wye"
+    },
+    {
+      "id": "unknown-claw-1771983807697-4wltdp4",
+      "timestamp": 1771983807697,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 13
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-jon-1",
+        "approach": "model-tier-routing",
+        "description": "Route tasks by quality tier",
+        "contexts": [
+          "planning",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 9,
+          "timeMinutes": 2.5,
+          "tokensSaved": 50
+        },
+        "confidence": 0.95,
+        "adoptedFrom": "jon-claw"
+      },
+      "hash": "-al14qc"
+    },
+    {
+      "id": "unknown-claw-1771983807697-09beo68",
+      "timestamp": 1771983807697,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 14
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-dar-1",
+        "approach": "design-system-tokens",
+        "description": "Token-based design",
+        "contexts": [
+          "design",
+          "optimization"
+        ],
+        "metrics": {
+          "qualityScore": 8.9,
+          "timeMinutes": 20,
+          "tokensSaved": 400
+        },
+        "confidence": 0.93,
+        "adoptedFrom": "dar-claw"
+      },
+      "hash": "r39wye"
+    }
+  ],
+  "vectorClocks": {
+    "unknown-claw": 14
+  },
+  "patterns": {
+    "unknown-claw-1771983807678-ajqpwds": {
+      "type": "pattern",
+      "id": "p-jon-1",
+      "approach": "model-tier-routing",
+      "description": "Route tasks by quality tier",
+      "contexts": [
+        "planning",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 9,
+        "timeMinutes": 2.5,
+        "tokensSaved": 50
+      },
+      "confidence": 0.95,
+      "adoptedFrom": "jon-claw",
+      "logEntryId": "unknown-claw-1771983807678-ajqpwds",
+      "addedAt": 1771983807678,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807678-6l2bdce": {
+      "type": "pattern",
+      "id": "p-dar-1",
+      "approach": "design-system-tokens",
+      "description": "Token-based design",
+      "contexts": [
+        "design",
+        "optimization"
+      ],
+      "metrics": {
+        "qualityScore": 8.9,
+        "timeMinutes": 20,
+        "tokensSaved": 400
+      },
+      "confidence": 0.93,
+      "adoptedFrom": "dar-claw",
+      "logEntryId": "unknown-claw-1771983807678-6l2bdce",
+      "addedAt": 1771983807678,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807682-ilz39f5": {
+      "type": "pattern",
+      "id": "p-jon-1",
+      "approach": "model-tier-routing",
+      "description": "Route tasks by quality tier",
+      "contexts": [
+        "planning",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 9,
+        "timeMinutes": 2.5,
+        "tokensSaved": 50
+      },
+      "confidence": 0.95,
+      "adoptedFrom": "jon-claw",
+      "logEntryId": "unknown-claw-1771983807682-ilz39f5",
+      "addedAt": 1771983807682,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807682-sjgx098": {
+      "type": "pattern",
+      "id": "p-dar-1",
+      "approach": "design-system-tokens",
+      "description": "Token-based design",
+      "contexts": [
+        "design",
+        "optimization"
+      ],
+      "metrics": {
+        "qualityScore": 8.9,
+        "timeMinutes": 20,
+        "tokensSaved": 400
+      },
+      "confidence": 0.93,
+      "adoptedFrom": "dar-claw",
+      "logEntryId": "unknown-claw-1771983807682-sjgx098",
+      "addedAt": 1771983807682,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807685-wx6xufb": {
+      "type": "pattern",
+      "id": "p-jon-1",
+      "approach": "model-tier-routing",
+      "description": "Route tasks by quality tier",
+      "contexts": [
+        "planning",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 9,
+        "timeMinutes": 2.5,
+        "tokensSaved": 50
+      },
+      "confidence": 0.95,
+      "adoptedFrom": "jon-claw",
+      "logEntryId": "unknown-claw-1771983807685-wx6xufb",
+      "addedAt": 1771983807685,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807685-hs3ru2k": {
+      "type": "pattern",
+      "id": "p-dar-1",
+      "approach": "design-system-tokens",
+      "description": "Token-based design",
+      "contexts": [
+        "design",
+        "optimization"
+      ],
+      "metrics": {
+        "qualityScore": 8.9,
+        "timeMinutes": 20,
+        "tokensSaved": 400
+      },
+      "confidence": 0.93,
+      "adoptedFrom": "dar-claw",
+      "logEntryId": "unknown-claw-1771983807685-hs3ru2k",
+      "addedAt": 1771983807685,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807687-oy6fnky": {
+      "type": "pattern",
+      "id": "p-jon-1",
+      "approach": "model-tier-routing",
+      "description": "Route tasks by quality tier",
+      "contexts": [
+        "planning",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 9,
+        "timeMinutes": 2.5,
+        "tokensSaved": 50
+      },
+      "confidence": 0.95,
+      "adoptedFrom": "jon-claw",
+      "logEntryId": "unknown-claw-1771983807687-oy6fnky",
+      "addedAt": 1771983807687,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807687-qchklz0": {
+      "type": "pattern",
+      "id": "p-dar-1",
+      "approach": "design-system-tokens",
+      "description": "Token-based design",
+      "contexts": [
+        "design",
+        "optimization"
+      ],
+      "metrics": {
+        "qualityScore": 8.9,
+        "timeMinutes": 20,
+        "tokensSaved": 400
+      },
+      "confidence": 0.93,
+      "adoptedFrom": "dar-claw",
+      "logEntryId": "unknown-claw-1771983807687-qchklz0",
+      "addedAt": 1771983807687,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807690-v7qnv51": {
+      "type": "pattern",
+      "id": "p-jon-1",
+      "approach": "model-tier-routing",
+      "description": "Route tasks by quality tier",
+      "contexts": [
+        "planning",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 9,
+        "timeMinutes": 2.5,
+        "tokensSaved": 50
+      },
+      "confidence": 0.95,
+      "adoptedFrom": "jon-claw",
+      "logEntryId": "unknown-claw-1771983807690-v7qnv51",
+      "addedAt": 1771983807690,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807690-1nl203o": {
+      "type": "pattern",
+      "id": "p-dar-1",
+      "approach": "design-system-tokens",
+      "description": "Token-based design",
+      "contexts": [
+        "design",
+        "optimization"
+      ],
+      "metrics": {
+        "qualityScore": 8.9,
+        "timeMinutes": 20,
+        "tokensSaved": 400
+      },
+      "confidence": 0.93,
+      "adoptedFrom": "dar-claw",
+      "logEntryId": "unknown-claw-1771983807690-1nl203o",
+      "addedAt": 1771983807690,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807694-2tht3o2": {
+      "type": "pattern",
+      "id": "p-jon-1",
+      "approach": "model-tier-routing",
+      "description": "Route tasks by quality tier",
+      "contexts": [
+        "planning",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 9,
+        "timeMinutes": 2.5,
+        "tokensSaved": 50
+      },
+      "confidence": 0.95,
+      "adoptedFrom": "jon-claw",
+      "logEntryId": "unknown-claw-1771983807694-2tht3o2",
+      "addedAt": 1771983807694,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807694-8tt2nws": {
+      "type": "pattern",
+      "id": "p-dar-1",
+      "approach": "design-system-tokens",
+      "description": "Token-based design",
+      "contexts": [
+        "design",
+        "optimization"
+      ],
+      "metrics": {
+        "qualityScore": 8.9,
+        "timeMinutes": 20,
+        "tokensSaved": 400
+      },
+      "confidence": 0.93,
+      "adoptedFrom": "dar-claw",
+      "logEntryId": "unknown-claw-1771983807694-8tt2nws",
+      "addedAt": 1771983807694,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807697-4wltdp4": {
+      "type": "pattern",
+      "id": "p-jon-1",
+      "approach": "model-tier-routing",
+      "description": "Route tasks by quality tier",
+      "contexts": [
+        "planning",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 9,
+        "timeMinutes": 2.5,
+        "tokensSaved": 50
+      },
+      "confidence": 0.95,
+      "adoptedFrom": "jon-claw",
+      "logEntryId": "unknown-claw-1771983807697-4wltdp4",
+      "addedAt": 1771983807697,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807697-09beo68": {
+      "type": "pattern",
+      "id": "p-dar-1",
+      "approach": "design-system-tokens",
+      "description": "Token-based design",
+      "contexts": [
+        "design",
+        "optimization"
+      ],
+      "metrics": {
+        "qualityScore": 8.9,
+        "timeMinutes": 20,
+        "tokensSaved": 400
+      },
+      "confidence": 0.93,
+      "adoptedFrom": "dar-claw",
+      "logEntryId": "unknown-claw-1771983807697-09beo68",
+      "addedAt": 1771983807697,
+      "sourceClawId": "unknown-claw"
+    }
+  },
+  "metadata": {
+    "createdAt": 1771983795160,
+    "localClawId": "unknown-claw",
+    "version": "1.0"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "dar-claw-1771983795175-lqpj37t",
+  "timestamp": 1771983795175,
+  "publisherId": "dar-claw",
+  "patterns": [
+    {
+      "id": "p-dar-1",
+      "approach": "design-system-tokens",
+      "description": "Token-based design",
+      "contexts": [
+        "design",
+        "optimization"
+      ],
+      "metrics": {
+        "qualityScore": 8.9,
+        "timeMinutes": 20,
+        "tokensSaved": 400
+      },
+      "confidence": 0.93
+    },
+    {
+      "id": "p-dar-2",
+      "approach": "component-library",
+      "description": "Reusable components",
+      "contexts": [
+        "design",
+        "strategy"
+      ],
+      "metrics": {
+        "qualityScore": 8.6,
+        "timeMinutes": 30,
+        "tokensSaved": 500
+      },
+      "confidence": 0.91
+    }
+  ],
+  "interestVector": {
+    "design": 0.35,
+    "optimization": 0.3,
+    "strategy": 0.2,
+    "learning": 0.15
+  },
+  "ttl": 7
+}

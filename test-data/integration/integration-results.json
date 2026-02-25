@@ -1,0 +1,225 @@
+{
+  "timestamp": "2026-02-25T01:43:27.699Z",
+  "test": "integration-3-claw-7-day",
+  "duration": "7 days simulated",
+  "passed": true,
+  "metrics": {
+    "totalPatternsExposed": 84,
+    "totalPatternsApplied": 168,
+    "adoptionRate": "200.0",
+    "tokensSaved": 23520,
+    "timeSaved": 700,
+    "qualityGains": 347.2,
+    "securityBlocksCount": 0
+  },
+  "successCriteria": {
+    "adoptionRateAbove50": true,
+    "noQualityDrops": true,
+    "allPatternsScanned": true
+  },
+  "clawMetrics": [
+    {
+      "day": 1,
+      "claws": {
+        "jon": {
+          "clawId": "jon-claw",
+          "patternsApplied": 2,
+          "tokensSaved": 280,
+          "timeSaved": 5,
+          "qualityGains": 3.7,
+          "peersConnected": 0
+        },
+        "brenden": {
+          "clawId": "brenden-claw",
+          "patternsApplied": 2,
+          "tokensSaved": 280,
+          "timeSaved": 7.5,
+          "qualityGains": 4.9,
+          "peersConnected": 0
+        },
+        "dar": {
+          "clawId": "dar-claw",
+          "patternsApplied": 2,
+          "tokensSaved": 280,
+          "timeSaved": 12.5,
+          "qualityGains": 3.8,
+          "peersConnected": 0
+        }
+      }
+    },
+    {
+      "day": 2,
+      "claws": {
+        "jon": {
+          "clawId": "jon-claw",
+          "patternsApplied": 4,
+          "tokensSaved": 560,
+          "timeSaved": 10,
+          "qualityGains": 7.4,
+          "peersConnected": 0
+        },
+        "brenden": {
+          "clawId": "brenden-claw",
+          "patternsApplied": 4,
+          "tokensSaved": 560,
+          "timeSaved": 15,
+          "qualityGains": 9.8,
+          "peersConnected": 0
+        },
+        "dar": {
+          "clawId": "dar-claw",
+          "patternsApplied": 4,
+          "tokensSaved": 560,
+          "timeSaved": 25,
+          "qualityGains": 7.6,
+          "peersConnected": 0
+        }
+      }
+    },
+    {
+      "day": 3,
+      "claws": {
+        "jon": {
+          "clawId": "jon-claw",
+          "patternsApplied": 6,
+          "tokensSaved": 840,
+          "timeSaved": 15,
+          "qualityGains": 11.1,
+          "peersConnected": 0
+        },
+        "brenden": {
+          "clawId": "brenden-claw",
+          "patternsApplied": 6,
+          "tokensSaved": 840,
+          "timeSaved": 22.5,
+          "qualityGains": 14.7,
+          "peersConnected": 0
+        },
+        "dar": {
+          "clawId": "dar-claw",
+          "patternsApplied": 6,
+          "tokensSaved": 840,
+          "timeSaved": 37.5,
+          "qualityGains": 11.4,
+          "peersConnected": 0
+        }
+      }
+    },
+    {
+      "day": 4,
+      "claws": {
+        "jon": {
+          "clawId": "jon-claw",
+          "patternsApplied": 8,
+          "tokensSaved": 1120,
+          "timeSaved": 20,
+          "qualityGains": 14.8,
+          "peersConnected": 0
+        },
+        "brenden": {
+          "clawId": "brenden-claw",
+          "patternsApplied": 8,
+          "tokensSaved": 1120,
+          "timeSaved": 30,
+          "qualityGains": 19.6,
+          "peersConnected": 0
+        },
+        "dar": {
+          "clawId": "dar-claw",
+          "patternsApplied": 8,
+          "tokensSaved": 1120,
+          "timeSaved": 50,
+          "qualityGains": 15.2,
+          "peersConnected": 0
+        }
+      }
+    },
+    {
+      "day": 5,
+      "claws": {
+        "jon": {
+          "clawId": "jon-claw",
+          "patternsApplied": 10,
+          "tokensSaved": 1400,
+          "timeSaved": 25,
+          "qualityGains": 18.5,
+          "peersConnected": 0
+        },
+        "brenden": {
+          "clawId": "brenden-claw",
+          "patternsApplied": 10,
+          "tokensSaved": 1400,
+          "timeSaved": 37.5,
+          "qualityGains": 24.5,
+          "peersConnected": 0
+        },
+        "dar": {
+          "clawId": "dar-claw",
+          "patternsApplied": 10,
+          "tokensSaved": 1400,
+          "timeSaved": 62.5,
+          "qualityGains": 19,
+          "peersConnected": 0
+        }
+      }
+    },
+    {
+      "day": 6,
+      "claws": {
+        "jon": {
+          "clawId": "jon-claw",
+          "patternsApplied": 12,
+          "tokensSaved": 1680,
+          "timeSaved": 30,
+          "qualityGains": 22.2,
+          "peersConnected": 0
+        },
+        "brenden": {
+          "clawId": "brenden-claw",
+          "patternsApplied": 12,
+          "tokensSaved": 1680,
+          "timeSaved": 45,
+          "qualityGains": 29.4,
+          "peersConnected": 0
+        },
+        "dar": {
+          "clawId": "dar-claw",
+          "patternsApplied": 12,
+          "tokensSaved": 1680,
+          "timeSaved": 75,
+          "qualityGains": 22.8,
+          "peersConnected": 0
+        }
+      }
+    },
+    {
+      "day": 7,
+      "claws": {
+        "jon": {
+          "clawId": "jon-claw",
+          "patternsApplied": 14,
+          "tokensSaved": 1960,
+          "timeSaved": 35,
+          "qualityGains": 25.9,
+          "peersConnected": 0
+        },
+        "brenden": {
+          "clawId": "brenden-claw",
+          "patternsApplied": 14,
+          "tokensSaved": 1960,
+          "timeSaved": 52.5,
+          "qualityGains": 34.3,
+          "peersConnected": 0
+        },
+        "dar": {
+          "clawId": "dar-claw",
+          "patternsApplied": 14,
+          "tokensSaved": 1960,
+          "timeSaved": 87.5,
+          "qualityGains": 26.6,
+          "peersConnected": 0
+        }
+      }
+    }
+  ]
+}

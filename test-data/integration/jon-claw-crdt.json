@@ -1,0 +1,658 @@
+{
+  "log": [
+    {
+      "id": "unknown-claw-1771983807675-ya6iaek",
+      "timestamp": 1771983807675,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 1
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-brenden-2",
+        "approach": "code-review-automation",
+        "description": "Auto-comment on PRs",
+        "contexts": [
+          "automation",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 7.8,
+          "timeMinutes": 5,
+          "tokensSaved": 100
+        },
+        "confidence": 0.87,
+        "adoptedFrom": "brenden-claw"
+      },
+      "hash": "jmofgv"
+    },
+    {
+      "id": "unknown-claw-1771983807675-1oiqa6z",
+      "timestamp": 1771983807675,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 2
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-dar-1",
+        "approach": "design-system-tokens",
+        "description": "Token-based design",
+        "contexts": [
+          "design",
+          "optimization"
+        ],
+        "metrics": {
+          "qualityScore": 8.9,
+          "timeMinutes": 20,
+          "tokensSaved": 400
+        },
+        "confidence": 0.93,
+        "adoptedFrom": "dar-claw"
+      },
+      "hash": "r39wye"
+    },
+    {
+      "id": "unknown-claw-1771983807680-ze4k6yl",
+      "timestamp": 1771983807680,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 3
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-brenden-2",
+        "approach": "code-review-automation",
+        "description": "Auto-comment on PRs",
+        "contexts": [
+          "automation",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 7.8,
+          "timeMinutes": 5,
+          "tokensSaved": 100
+        },
+        "confidence": 0.87,
+        "adoptedFrom": "brenden-claw"
+      },
+      "hash": "jmofgv"
+    },
+    {
+      "id": "unknown-claw-1771983807680-ujqimiv",
+      "timestamp": 1771983807680,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 4
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-dar-1",
+        "approach": "design-system-tokens",
+        "description": "Token-based design",
+        "contexts": [
+          "design",
+          "optimization"
+        ],
+        "metrics": {
+          "qualityScore": 8.9,
+          "timeMinutes": 20,
+          "tokensSaved": 400
+        },
+        "confidence": 0.93,
+        "adoptedFrom": "dar-claw"
+      },
+      "hash": "r39wye"
+    },
+    {
+      "id": "unknown-claw-1771983807684-z1g9bv5",
+      "timestamp": 1771983807684,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 5
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-brenden-2",
+        "approach": "code-review-automation",
+        "description": "Auto-comment on PRs",
+        "contexts": [
+          "automation",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 7.8,
+          "timeMinutes": 5,
+          "tokensSaved": 100
+        },
+        "confidence": 0.87,
+        "adoptedFrom": "brenden-claw"
+      },
+      "hash": "jmofgv"
+    },
+    {
+      "id": "unknown-claw-1771983807684-jphoqrf",
+      "timestamp": 1771983807684,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 6
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-dar-1",
+        "approach": "design-system-tokens",
+        "description": "Token-based design",
+        "contexts": [
+          "design",
+          "optimization"
+        ],
+        "metrics": {
+          "qualityScore": 8.9,
+          "timeMinutes": 20,
+          "tokensSaved": 400
+        },
+        "confidence": 0.93,
+        "adoptedFrom": "dar-claw"
+      },
+      "hash": "r39wye"
+    },
+    {
+      "id": "unknown-claw-1771983807686-rnm0x7h",
+      "timestamp": 1771983807686,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 7
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-brenden-2",
+        "approach": "code-review-automation",
+        "description": "Auto-comment on PRs",
+        "contexts": [
+          "automation",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 7.8,
+          "timeMinutes": 5,
+          "tokensSaved": 100
+        },
+        "confidence": 0.87,
+        "adoptedFrom": "brenden-claw"
+      },
+      "hash": "jmofgv"
+    },
+    {
+      "id": "unknown-claw-1771983807687-kiotg0x",
+      "timestamp": 1771983807687,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 8
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-dar-1",
+        "approach": "design-system-tokens",
+        "description": "Token-based design",
+        "contexts": [
+          "design",
+          "optimization"
+        ],
+        "metrics": {
+          "qualityScore": 8.9,
+          "timeMinutes": 20,
+          "tokensSaved": 400
+        },
+        "confidence": 0.93,
+        "adoptedFrom": "dar-claw"
+      },
+      "hash": "r39wye"
+    },
+    {
+      "id": "unknown-claw-1771983807689-gulmvw9",
+      "timestamp": 1771983807689,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 9
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-brenden-2",
+        "approach": "code-review-automation",
+        "description": "Auto-comment on PRs",
+        "contexts": [
+          "automation",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 7.8,
+          "timeMinutes": 5,
+          "tokensSaved": 100
+        },
+        "confidence": 0.87,
+        "adoptedFrom": "brenden-claw"
+      },
+      "hash": "jmofgv"
+    },
+    {
+      "id": "unknown-claw-1771983807689-re1g09w",
+      "timestamp": 1771983807689,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 10
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-dar-1",
+        "approach": "design-system-tokens",
+        "description": "Token-based design",
+        "contexts": [
+          "design",
+          "optimization"
+        ],
+        "metrics": {
+          "qualityScore": 8.9,
+          "timeMinutes": 20,
+          "tokensSaved": 400
+        },
+        "confidence": 0.93,
+        "adoptedFrom": "dar-claw"
+      },
+      "hash": "r39wye"
+    },
+    {
+      "id": "unknown-claw-1771983807693-h5cza4v",
+      "timestamp": 1771983807693,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 11
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-brenden-2",
+        "approach": "code-review-automation",
+        "description": "Auto-comment on PRs",
+        "contexts": [
+          "automation",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 7.8,
+          "timeMinutes": 5,
+          "tokensSaved": 100
+        },
+        "confidence": 0.87,
+        "adoptedFrom": "brenden-claw"
+      },
+      "hash": "jmofgv"
+    },
+    {
+      "id": "unknown-claw-1771983807693-2kumeqg",
+      "timestamp": 1771983807693,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 12
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-dar-1",
+        "approach": "design-system-tokens",
+        "description": "Token-based design",
+        "contexts": [
+          "design",
+          "optimization"
+        ],
+        "metrics": {
+          "qualityScore": 8.9,
+          "timeMinutes": 20,
+          "tokensSaved": 400
+        },
+        "confidence": 0.93,
+        "adoptedFrom": "dar-claw"
+      },
+      "hash": "r39wye"
+    },
+    {
+      "id": "unknown-claw-1771983807696-oyzxw6w",
+      "timestamp": 1771983807696,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 13
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-brenden-2",
+        "approach": "code-review-automation",
+        "description": "Auto-comment on PRs",
+        "contexts": [
+          "automation",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 7.8,
+          "timeMinutes": 5,
+          "tokensSaved": 100
+        },
+        "confidence": 0.87,
+        "adoptedFrom": "brenden-claw"
+      },
+      "hash": "jmofgv"
+    },
+    {
+      "id": "unknown-claw-1771983807696-e8x9pvf",
+      "timestamp": 1771983807696,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 14
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-dar-1",
+        "approach": "design-system-tokens",
+        "description": "Token-based design",
+        "contexts": [
+          "design",
+          "optimization"
+        ],
+        "metrics": {
+          "qualityScore": 8.9,
+          "timeMinutes": 20,
+          "tokensSaved": 400
+        },
+        "confidence": 0.93,
+        "adoptedFrom": "dar-claw"
+      },
+      "hash": "r39wye"
+    }
+  ],
+  "vectorClocks": {
+    "unknown-claw": 14
+  },
+  "patterns": {
+    "unknown-claw-1771983807675-ya6iaek": {
+      "type": "pattern",
+      "id": "p-brenden-2",
+      "approach": "code-review-automation",
+      "description": "Auto-comment on PRs",
+      "contexts": [
+        "automation",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 7.8,
+        "timeMinutes": 5,
+        "tokensSaved": 100
+      },
+      "confidence": 0.87,
+      "adoptedFrom": "brenden-claw",
+      "logEntryId": "unknown-claw-1771983807675-ya6iaek",
+      "addedAt": 1771983807675,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807675-1oiqa6z": {
+      "type": "pattern",
+      "id": "p-dar-1",
+      "approach": "design-system-tokens",
+      "description": "Token-based design",
+      "contexts": [
+        "design",
+        "optimization"
+      ],
+      "metrics": {
+        "qualityScore": 8.9,
+        "timeMinutes": 20,
+        "tokensSaved": 400
+      },
+      "confidence": 0.93,
+      "adoptedFrom": "dar-claw",
+      "logEntryId": "unknown-claw-1771983807675-1oiqa6z",
+      "addedAt": 1771983807675,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807680-ze4k6yl": {
+      "type": "pattern",
+      "id": "p-brenden-2",
+      "approach": "code-review-automation",
+      "description": "Auto-comment on PRs",
+      "contexts": [
+        "automation",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 7.8,
+        "timeMinutes": 5,
+        "tokensSaved": 100
+      },
+      "confidence": 0.87,
+      "adoptedFrom": "brenden-claw",
+      "logEntryId": "unknown-claw-1771983807680-ze4k6yl",
+      "addedAt": 1771983807680,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807680-ujqimiv": {
+      "type": "pattern",
+      "id": "p-dar-1",
+      "approach": "design-system-tokens",
+      "description": "Token-based design",
+      "contexts": [
+        "design",
+        "optimization"
+      ],
+      "metrics": {
+        "qualityScore": 8.9,
+        "timeMinutes": 20,
+        "tokensSaved": 400
+      },
+      "confidence": 0.93,
+      "adoptedFrom": "dar-claw",
+      "logEntryId": "unknown-claw-1771983807680-ujqimiv",
+      "addedAt": 1771983807680,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807684-z1g9bv5": {
+      "type": "pattern",
+      "id": "p-brenden-2",
+      "approach": "code-review-automation",
+      "description": "Auto-comment on PRs",
+      "contexts": [
+        "automation",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 7.8,
+        "timeMinutes": 5,
+        "tokensSaved": 100
+      },
+      "confidence": 0.87,
+      "adoptedFrom": "brenden-claw",
+      "logEntryId": "unknown-claw-1771983807684-z1g9bv5",
+      "addedAt": 1771983807684,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807684-jphoqrf": {
+      "type": "pattern",
+      "id": "p-dar-1",
+      "approach": "design-system-tokens",
+      "description": "Token-based design",
+      "contexts": [
+        "design",
+        "optimization"
+      ],
+      "metrics": {
+        "qualityScore": 8.9,
+        "timeMinutes": 20,
+        "tokensSaved": 400
+      },
+      "confidence": 0.93,
+      "adoptedFrom": "dar-claw",
+      "logEntryId": "unknown-claw-1771983807684-jphoqrf",
+      "addedAt": 1771983807684,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807686-rnm0x7h": {
+      "type": "pattern",
+      "id": "p-brenden-2",
+      "approach": "code-review-automation",
+      "description": "Auto-comment on PRs",
+      "contexts": [
+        "automation",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 7.8,
+        "timeMinutes": 5,
+        "tokensSaved": 100
+      },
+      "confidence": 0.87,
+      "adoptedFrom": "brenden-claw",
+      "logEntryId": "unknown-claw-1771983807686-rnm0x7h",
+      "addedAt": 1771983807686,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807687-kiotg0x": {
+      "type": "pattern",
+      "id": "p-dar-1",
+      "approach": "design-system-tokens",
+      "description": "Token-based design",
+      "contexts": [
+        "design",
+        "optimization"
+      ],
+      "metrics": {
+        "qualityScore": 8.9,
+        "timeMinutes": 20,
+        "tokensSaved": 400
+      },
+      "confidence": 0.93,
+      "adoptedFrom": "dar-claw",
+      "logEntryId": "unknown-claw-1771983807687-kiotg0x",
+      "addedAt": 1771983807687,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807689-gulmvw9": {
+      "type": "pattern",
+      "id": "p-brenden-2",
+      "approach": "code-review-automation",
+      "description": "Auto-comment on PRs",
+      "contexts": [
+        "automation",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 7.8,
+        "timeMinutes": 5,
+        "tokensSaved": 100
+      },
+      "confidence": 0.87,
+      "adoptedFrom": "brenden-claw",
+      "logEntryId": "unknown-claw-1771983807689-gulmvw9",
+      "addedAt": 1771983807689,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807689-re1g09w": {
+      "type": "pattern",
+      "id": "p-dar-1",
+      "approach": "design-system-tokens",
+      "description": "Token-based design",
+      "contexts": [
+        "design",
+        "optimization"
+      ],
+      "metrics": {
+        "qualityScore": 8.9,
+        "timeMinutes": 20,
+        "tokensSaved": 400
+      },
+      "confidence": 0.93,
+      "adoptedFrom": "dar-claw",
+      "logEntryId": "unknown-claw-1771983807689-re1g09w",
+      "addedAt": 1771983807689,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807693-h5cza4v": {
+      "type": "pattern",
+      "id": "p-brenden-2",
+      "approach": "code-review-automation",
+      "description": "Auto-comment on PRs",
+      "contexts": [
+        "automation",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 7.8,
+        "timeMinutes": 5,
+        "tokensSaved": 100
+      },
+      "confidence": 0.87,
+      "adoptedFrom": "brenden-claw",
+      "logEntryId": "unknown-claw-1771983807693-h5cza4v",
+      "addedAt": 1771983807693,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807693-2kumeqg": {
+      "type": "pattern",
+      "id": "p-dar-1",
+      "approach": "design-system-tokens",
+      "description": "Token-based design",
+      "contexts": [
+        "design",
+        "optimization"
+      ],
+      "metrics": {
+        "qualityScore": 8.9,
+        "timeMinutes": 20,
+        "tokensSaved": 400
+      },
+      "confidence": 0.93,
+      "adoptedFrom": "dar-claw",
+      "logEntryId": "unknown-claw-1771983807693-2kumeqg",
+      "addedAt": 1771983807693,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807696-oyzxw6w": {
+      "type": "pattern",
+      "id": "p-brenden-2",
+      "approach": "code-review-automation",
+      "description": "Auto-comment on PRs",
+      "contexts": [
+        "automation",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 7.8,
+        "timeMinutes": 5,
+        "tokensSaved": 100
+      },
+      "confidence": 0.87,
+      "adoptedFrom": "brenden-claw",
+      "logEntryId": "unknown-claw-1771983807696-oyzxw6w",
+      "addedAt": 1771983807696,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807696-e8x9pvf": {
+      "type": "pattern",
+      "id": "p-dar-1",
+      "approach": "design-system-tokens",
+      "description": "Token-based design",
+      "contexts": [
+        "design",
+        "optimization"
+      ],
+      "metrics": {
+        "qualityScore": 8.9,
+        "timeMinutes": 20,
+        "tokensSaved": 400
+      },
+      "confidence": 0.93,
+      "adoptedFrom": "dar-claw",
+      "logEntryId": "unknown-claw-1771983807696-e8x9pvf",
+      "addedAt": 1771983807696,
+      "sourceClawId": "unknown-claw"
+    }
+  },
+  "metadata": {
+    "createdAt": 1771983795160,
+    "localClawId": "unknown-claw",
+    "version": "1.0"
+  }
+}

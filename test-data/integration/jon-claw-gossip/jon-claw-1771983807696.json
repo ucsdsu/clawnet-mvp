@@ -1,0 +1,43 @@
+{
+  "id": "jon-claw-1771983807696-0nwqlyk",
+  "timestamp": 1771983807696,
+  "publisherId": "jon-claw",
+  "patterns": [
+    {
+      "id": "p-jon-1",
+      "approach": "model-tier-routing",
+      "description": "Route tasks by quality tier",
+      "contexts": [
+        "planning",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 9,
+        "timeMinutes": 2.5,
+        "tokensSaved": 50
+      },
+      "confidence": 0.95
+    },
+    {
+      "id": "p-jon-2",
+      "approach": "shape-up-method",
+      "description": "Shape before building",
+      "contexts": [
+        "planning"
+      ],
+      "metrics": {
+        "qualityScore": 8.8,
+        "timeMinutes": 15,
+        "tokensSaved": 200
+      },
+      "confidence": 0.92
+    }
+  ],
+  "interestVector": {
+    "planning": 0.3,
+    "execution": 0.25,
+    "optimization": 0.2,
+    "learning": 0.25
+  },
+  "ttl": 7
+}

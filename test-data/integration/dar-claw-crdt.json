@@ -1,0 +1,658 @@
+{
+  "log": [
+    {
+      "id": "unknown-claw-1771983807679-cporeme",
+      "timestamp": 1771983807679,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 1
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-jon-1",
+        "approach": "model-tier-routing",
+        "description": "Route tasks by quality tier",
+        "contexts": [
+          "planning",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 9,
+          "timeMinutes": 2.5,
+          "tokensSaved": 50
+        },
+        "confidence": 0.95,
+        "adoptedFrom": "jon-claw"
+      },
+      "hash": "-al14qc"
+    },
+    {
+      "id": "unknown-claw-1771983807679-i87m2o1",
+      "timestamp": 1771983807679,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 2
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-brenden-2",
+        "approach": "code-review-automation",
+        "description": "Auto-comment on PRs",
+        "contexts": [
+          "automation",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 7.8,
+          "timeMinutes": 5,
+          "tokensSaved": 100
+        },
+        "confidence": 0.87,
+        "adoptedFrom": "brenden-claw"
+      },
+      "hash": "jmofgv"
+    },
+    {
+      "id": "unknown-claw-1771983807683-0egvl4y",
+      "timestamp": 1771983807683,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 3
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-jon-1",
+        "approach": "model-tier-routing",
+        "description": "Route tasks by quality tier",
+        "contexts": [
+          "planning",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 9,
+          "timeMinutes": 2.5,
+          "tokensSaved": 50
+        },
+        "confidence": 0.95,
+        "adoptedFrom": "jon-claw"
+      },
+      "hash": "-al14qc"
+    },
+    {
+      "id": "unknown-claw-1771983807683-wgyzjhl",
+      "timestamp": 1771983807683,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 4
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-brenden-2",
+        "approach": "code-review-automation",
+        "description": "Auto-comment on PRs",
+        "contexts": [
+          "automation",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 7.8,
+          "timeMinutes": 5,
+          "tokensSaved": 100
+        },
+        "confidence": 0.87,
+        "adoptedFrom": "brenden-claw"
+      },
+      "hash": "jmofgv"
+    },
+    {
+      "id": "unknown-claw-1771983807686-jnfow1k",
+      "timestamp": 1771983807686,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 5
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-jon-1",
+        "approach": "model-tier-routing",
+        "description": "Route tasks by quality tier",
+        "contexts": [
+          "planning",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 9,
+          "timeMinutes": 2.5,
+          "tokensSaved": 50
+        },
+        "confidence": 0.95,
+        "adoptedFrom": "jon-claw"
+      },
+      "hash": "-al14qc"
+    },
+    {
+      "id": "unknown-claw-1771983807686-y8tbxym",
+      "timestamp": 1771983807686,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 6
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-brenden-2",
+        "approach": "code-review-automation",
+        "description": "Auto-comment on PRs",
+        "contexts": [
+          "automation",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 7.8,
+          "timeMinutes": 5,
+          "tokensSaved": 100
+        },
+        "confidence": 0.87,
+        "adoptedFrom": "brenden-claw"
+      },
+      "hash": "jmofgv"
+    },
+    {
+      "id": "unknown-claw-1771983807688-7w3bpgu",
+      "timestamp": 1771983807688,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 7
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-jon-1",
+        "approach": "model-tier-routing",
+        "description": "Route tasks by quality tier",
+        "contexts": [
+          "planning",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 9,
+          "timeMinutes": 2.5,
+          "tokensSaved": 50
+        },
+        "confidence": 0.95,
+        "adoptedFrom": "jon-claw"
+      },
+      "hash": "-al14qc"
+    },
+    {
+      "id": "unknown-claw-1771983807688-oix3taj",
+      "timestamp": 1771983807688,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 8
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-brenden-2",
+        "approach": "code-review-automation",
+        "description": "Auto-comment on PRs",
+        "contexts": [
+          "automation",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 7.8,
+          "timeMinutes": 5,
+          "tokensSaved": 100
+        },
+        "confidence": 0.87,
+        "adoptedFrom": "brenden-claw"
+      },
+      "hash": "jmofgv"
+    },
+    {
+      "id": "unknown-claw-1771983807692-esuxjzb",
+      "timestamp": 1771983807692,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 9
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-jon-1",
+        "approach": "model-tier-routing",
+        "description": "Route tasks by quality tier",
+        "contexts": [
+          "planning",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 9,
+          "timeMinutes": 2.5,
+          "tokensSaved": 50
+        },
+        "confidence": 0.95,
+        "adoptedFrom": "jon-claw"
+      },
+      "hash": "-al14qc"
+    },
+    {
+      "id": "unknown-claw-1771983807692-5y1zrye",
+      "timestamp": 1771983807692,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 10
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-brenden-2",
+        "approach": "code-review-automation",
+        "description": "Auto-comment on PRs",
+        "contexts": [
+          "automation",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 7.8,
+          "timeMinutes": 5,
+          "tokensSaved": 100
+        },
+        "confidence": 0.87,
+        "adoptedFrom": "brenden-claw"
+      },
+      "hash": "jmofgv"
+    },
+    {
+      "id": "unknown-claw-1771983807695-zzhd65h",
+      "timestamp": 1771983807695,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 11
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-jon-1",
+        "approach": "model-tier-routing",
+        "description": "Route tasks by quality tier",
+        "contexts": [
+          "planning",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 9,
+          "timeMinutes": 2.5,
+          "tokensSaved": 50
+        },
+        "confidence": 0.95,
+        "adoptedFrom": "jon-claw"
+      },
+      "hash": "-al14qc"
+    },
+    {
+      "id": "unknown-claw-1771983807695-pok536x",
+      "timestamp": 1771983807695,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 12
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-brenden-2",
+        "approach": "code-review-automation",
+        "description": "Auto-comment on PRs",
+        "contexts": [
+          "automation",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 7.8,
+          "timeMinutes": 5,
+          "tokensSaved": 100
+        },
+        "confidence": 0.87,
+        "adoptedFrom": "brenden-claw"
+      },
+      "hash": "jmofgv"
+    },
+    {
+      "id": "unknown-claw-1771983807697-1uuh1nz",
+      "timestamp": 1771983807697,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 13
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-jon-1",
+        "approach": "model-tier-routing",
+        "description": "Route tasks by quality tier",
+        "contexts": [
+          "planning",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 9,
+          "timeMinutes": 2.5,
+          "tokensSaved": 50
+        },
+        "confidence": 0.95,
+        "adoptedFrom": "jon-claw"
+      },
+      "hash": "-al14qc"
+    },
+    {
+      "id": "unknown-claw-1771983807697-t4k2kzv",
+      "timestamp": 1771983807697,
+      "clawId": "unknown-claw",
+      "vectorClock": {
+        "unknown-claw": 14
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "p-brenden-2",
+        "approach": "code-review-automation",
+        "description": "Auto-comment on PRs",
+        "contexts": [
+          "automation",
+          "execution"
+        ],
+        "metrics": {
+          "qualityScore": 7.8,
+          "timeMinutes": 5,
+          "tokensSaved": 100
+        },
+        "confidence": 0.87,
+        "adoptedFrom": "brenden-claw"
+      },
+      "hash": "jmofgv"
+    }
+  ],
+  "vectorClocks": {
+    "unknown-claw": 14
+  },
+  "patterns": {
+    "unknown-claw-1771983807679-cporeme": {
+      "type": "pattern",
+      "id": "p-jon-1",
+      "approach": "model-tier-routing",
+      "description": "Route tasks by quality tier",
+      "contexts": [
+        "planning",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 9,
+        "timeMinutes": 2.5,
+        "tokensSaved": 50
+      },
+      "confidence": 0.95,
+      "adoptedFrom": "jon-claw",
+      "logEntryId": "unknown-claw-1771983807679-cporeme",
+      "addedAt": 1771983807679,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807679-i87m2o1": {
+      "type": "pattern",
+      "id": "p-brenden-2",
+      "approach": "code-review-automation",
+      "description": "Auto-comment on PRs",
+      "contexts": [
+        "automation",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 7.8,
+        "timeMinutes": 5,
+        "tokensSaved": 100
+      },
+      "confidence": 0.87,
+      "adoptedFrom": "brenden-claw",
+      "logEntryId": "unknown-claw-1771983807679-i87m2o1",
+      "addedAt": 1771983807679,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807683-0egvl4y": {
+      "type": "pattern",
+      "id": "p-jon-1",
+      "approach": "model-tier-routing",
+      "description": "Route tasks by quality tier",
+      "contexts": [
+        "planning",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 9,
+        "timeMinutes": 2.5,
+        "tokensSaved": 50
+      },
+      "confidence": 0.95,
+      "adoptedFrom": "jon-claw",
+      "logEntryId": "unknown-claw-1771983807683-0egvl4y",
+      "addedAt": 1771983807683,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807683-wgyzjhl": {
+      "type": "pattern",
+      "id": "p-brenden-2",
+      "approach": "code-review-automation",
+      "description": "Auto-comment on PRs",
+      "contexts": [
+        "automation",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 7.8,
+        "timeMinutes": 5,
+        "tokensSaved": 100
+      },
+      "confidence": 0.87,
+      "adoptedFrom": "brenden-claw",
+      "logEntryId": "unknown-claw-1771983807683-wgyzjhl",
+      "addedAt": 1771983807683,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807686-jnfow1k": {
+      "type": "pattern",
+      "id": "p-jon-1",
+      "approach": "model-tier-routing",
+      "description": "Route tasks by quality tier",
+      "contexts": [
+        "planning",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 9,
+        "timeMinutes": 2.5,
+        "tokensSaved": 50
+      },
+      "confidence": 0.95,
+      "adoptedFrom": "jon-claw",
+      "logEntryId": "unknown-claw-1771983807686-jnfow1k",
+      "addedAt": 1771983807686,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807686-y8tbxym": {
+      "type": "pattern",
+      "id": "p-brenden-2",
+      "approach": "code-review-automation",
+      "description": "Auto-comment on PRs",
+      "contexts": [
+        "automation",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 7.8,
+        "timeMinutes": 5,
+        "tokensSaved": 100
+      },
+      "confidence": 0.87,
+      "adoptedFrom": "brenden-claw",
+      "logEntryId": "unknown-claw-1771983807686-y8tbxym",
+      "addedAt": 1771983807686,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807688-7w3bpgu": {
+      "type": "pattern",
+      "id": "p-jon-1",
+      "approach": "model-tier-routing",
+      "description": "Route tasks by quality tier",
+      "contexts": [
+        "planning",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 9,
+        "timeMinutes": 2.5,
+        "tokensSaved": 50
+      },
+      "confidence": 0.95,
+      "adoptedFrom": "jon-claw",
+      "logEntryId": "unknown-claw-1771983807688-7w3bpgu",
+      "addedAt": 1771983807688,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807688-oix3taj": {
+      "type": "pattern",
+      "id": "p-brenden-2",
+      "approach": "code-review-automation",
+      "description": "Auto-comment on PRs",
+      "contexts": [
+        "automation",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 7.8,
+        "timeMinutes": 5,
+        "tokensSaved": 100
+      },
+      "confidence": 0.87,
+      "adoptedFrom": "brenden-claw",
+      "logEntryId": "unknown-claw-1771983807688-oix3taj",
+      "addedAt": 1771983807688,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807692-esuxjzb": {
+      "type": "pattern",
+      "id": "p-jon-1",
+      "approach": "model-tier-routing",
+      "description": "Route tasks by quality tier",
+      "contexts": [
+        "planning",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 9,
+        "timeMinutes": 2.5,
+        "tokensSaved": 50
+      },
+      "confidence": 0.95,
+      "adoptedFrom": "jon-claw",
+      "logEntryId": "unknown-claw-1771983807692-esuxjzb",
+      "addedAt": 1771983807692,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807692-5y1zrye": {
+      "type": "pattern",
+      "id": "p-brenden-2",
+      "approach": "code-review-automation",
+      "description": "Auto-comment on PRs",
+      "contexts": [
+        "automation",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 7.8,
+        "timeMinutes": 5,
+        "tokensSaved": 100
+      },
+      "confidence": 0.87,
+      "adoptedFrom": "brenden-claw",
+      "logEntryId": "unknown-claw-1771983807692-5y1zrye",
+      "addedAt": 1771983807692,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807695-zzhd65h": {
+      "type": "pattern",
+      "id": "p-jon-1",
+      "approach": "model-tier-routing",
+      "description": "Route tasks by quality tier",
+      "contexts": [
+        "planning",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 9,
+        "timeMinutes": 2.5,
+        "tokensSaved": 50
+      },
+      "confidence": 0.95,
+      "adoptedFrom": "jon-claw",
+      "logEntryId": "unknown-claw-1771983807695-zzhd65h",
+      "addedAt": 1771983807695,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807695-pok536x": {
+      "type": "pattern",
+      "id": "p-brenden-2",
+      "approach": "code-review-automation",
+      "description": "Auto-comment on PRs",
+      "contexts": [
+        "automation",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 7.8,
+        "timeMinutes": 5,
+        "tokensSaved": 100
+      },
+      "confidence": 0.87,
+      "adoptedFrom": "brenden-claw",
+      "logEntryId": "unknown-claw-1771983807695-pok536x",
+      "addedAt": 1771983807695,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807697-1uuh1nz": {
+      "type": "pattern",
+      "id": "p-jon-1",
+      "approach": "model-tier-routing",
+      "description": "Route tasks by quality tier",
+      "contexts": [
+        "planning",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 9,
+        "timeMinutes": 2.5,
+        "tokensSaved": 50
+      },
+      "confidence": 0.95,
+      "adoptedFrom": "jon-claw",
+      "logEntryId": "unknown-claw-1771983807697-1uuh1nz",
+      "addedAt": 1771983807697,
+      "sourceClawId": "unknown-claw"
+    },
+    "unknown-claw-1771983807697-t4k2kzv": {
+      "type": "pattern",
+      "id": "p-brenden-2",
+      "approach": "code-review-automation",
+      "description": "Auto-comment on PRs",
+      "contexts": [
+        "automation",
+        "execution"
+      ],
+      "metrics": {
+        "qualityScore": 7.8,
+        "timeMinutes": 5,
+        "tokensSaved": 100
+      },
+      "confidence": 0.87,
+      "adoptedFrom": "brenden-claw",
+      "logEntryId": "unknown-claw-1771983807697-t4k2kzv",
+      "addedAt": 1771983807697,
+      "sourceClawId": "unknown-claw"
+    }
+  },
+  "metadata": {
+    "createdAt": 1771983795161,
+    "localClawId": "unknown-claw",
+    "version": "1.0"
+  }
+}
