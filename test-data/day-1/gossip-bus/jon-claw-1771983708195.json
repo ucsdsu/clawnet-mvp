@@ -1,0 +1,32 @@
+{
+  "id": "jon-claw-1771983708195-wbxll2q",
+  "timestamp": 1771983708195,
+  "publisherId": "jon-claw",
+  "patterns": [
+    {
+      "id": "p1",
+      "approach": "model-routing",
+      "contexts": [
+        "planning",
+        "execution"
+      ],
+      "confidence": 0.92
+    },
+    {
+      "id": "p2",
+      "approach": "shape-up",
+      "contexts": [
+        "planning",
+        "learning"
+      ],
+      "confidence": 0.88
+    }
+  ],
+  "interestVector": {
+    "planning": 0.25,
+    "execution": 0.2,
+    "optimization": 0.15,
+    "learning": 0.4
+  },
+  "ttl": 7
+}

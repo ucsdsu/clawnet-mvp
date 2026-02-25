@@ -1,0 +1,298 @@
+{
+  "log": [
+    {
+      "id": "jon-claw-1771983708188-3svpplq",
+      "timestamp": 1771983708188,
+      "clawId": "jon-claw",
+      "vectorClock": {
+        "jon-claw": 1
+      },
+      "entry": {
+        "type": "pattern",
+        "approach": "model-routing",
+        "description": "Route to Sonnet for thinking"
+      },
+      "hash": "-mb17vm"
+    },
+    {
+      "id": "jon-claw-1771983708188-uj8va43",
+      "timestamp": 1771983708188,
+      "clawId": "jon-claw",
+      "vectorClock": {
+        "jon-claw": 2
+      },
+      "entry": {
+        "type": "pattern",
+        "approach": "shape-up-decisions",
+        "description": "Shape up before committing"
+      },
+      "hash": "ae2oov"
+    },
+    {
+      "id": "jon-claw-1771983708198-qolw8za",
+      "timestamp": 1771983708198,
+      "clawId": "jon-claw",
+      "vectorClock": {
+        "jon-claw": 3
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "pattern-model-tier-routing",
+        "approach": "tier-based-model-routing",
+        "description": "Route tasks to models based on quality tiers: Tier 1 (Opus/Sonnet) for thinking, Tier 2 for execution, Tier 3 for routine",
+        "contexts": [
+          "planning",
+          "execution",
+          "background-jobs"
+        ],
+        "metrics": {
+          "tokenSavings": "~250K/week by routing routine jobs to Gemini Flash",
+          "qualityScore": 8.5,
+          "costReduction": "40%"
+        },
+        "confidence": 0.92,
+        "scanResult": "ACCEPT",
+        "sanitized": {
+          "id": "pattern-model-tier-routing",
+          "approach": "tier-based-model-routing",
+          "description": "Route tasks to models based on quality tiers: Tier 1 (Opus/Sonnet) for thinking, Tier 2 for execution, Tier 3 for routine",
+          "contexts": [
+            "planning",
+            "execution",
+            "background-jobs"
+          ],
+          "metrics": {
+            "tokenSavings": "~250K/week by routing routine jobs to Gemini Flash",
+            "qualityScore": 8.5,
+            "costReduction": "40%"
+          },
+          "confidence": 0.92
+        }
+      },
+      "hash": "opcvg7"
+    },
+    {
+      "id": "jon-claw-1771983708198-tgkdytc",
+      "timestamp": 1771983708198,
+      "clawId": "jon-claw",
+      "vectorClock": {
+        "jon-claw": 4
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "pattern-shape-up-decisions",
+        "approach": "shape-up-before-commitment",
+        "description": "Use Shape Up to clarify problem space before committing to solution",
+        "contexts": [
+          "decisions",
+          "planning",
+          "product-design"
+        ],
+        "metrics": {
+          "decisionQuality": 8.2,
+          "clarityGain": "70%",
+          "reworkReduction": "50%"
+        },
+        "confidence": 0.88,
+        "scanResult": "ACCEPT",
+        "sanitized": {
+          "id": "pattern-shape-up-decisions",
+          "approach": "shape-up-before-commitment",
+          "description": "Use Shape Up to clarify problem space before committing to solution",
+          "contexts": [
+            "decisions",
+            "planning",
+            "product-design"
+          ],
+          "metrics": {
+            "decisionQuality": 8.2,
+            "clarityGain": "70%",
+            "reworkReduction": "50%"
+          },
+          "confidence": 0.88
+        }
+      },
+      "hash": "i8tzh"
+    },
+    {
+      "id": "jon-claw-1771983708198-uxqqqdl",
+      "timestamp": 1771983708198,
+      "clawId": "jon-claw",
+      "vectorClock": {
+        "jon-claw": 5
+      },
+      "entry": {
+        "type": "pattern",
+        "id": "pattern-north-star-alignment",
+        "approach": "quarterly-alignment-to-north-stars",
+        "description": "Validate every decision and task against Three North Stars. If it doesn't serve one, defer or delete.",
+        "contexts": [
+          "strategy",
+          "decisions",
+          "prioritization"
+        ],
+        "metrics": {
+          "focusClarity": 9,
+          "decisionSpeed": 8.5,
+          "regretIndex": 0.1
+        },
+        "confidence": 0.95,
+        "scanResult": "ACCEPT",
+        "sanitized": {
+          "id": "pattern-north-star-alignment",
+          "approach": "quarterly-alignment-to-north-stars",
+          "description": "Validate every decision and task against Three North Stars. If it doesn't serve one, defer or delete.",
+          "contexts": [
+            "strategy",
+            "decisions",
+            "prioritization"
+          ],
+          "metrics": {
+            "focusClarity": 9,
+            "decisionSpeed": 8.5,
+            "regretIndex": 0.1
+          },
+          "confidence": 0.95
+        }
+      },
+      "hash": "-k0zkct"
+    }
+  ],
+  "vectorClocks": {
+    "jon-claw": 5
+  },
+  "patterns": {
+    "jon-claw-1771983708188-3svpplq": {
+      "type": "pattern",
+      "approach": "model-routing",
+      "description": "Route to Sonnet for thinking",
+      "logEntryId": "jon-claw-1771983708188-3svpplq",
+      "addedAt": 1771983708188,
+      "sourceClawId": "jon-claw"
+    },
+    "jon-claw-1771983708188-uj8va43": {
+      "type": "pattern",
+      "approach": "shape-up-decisions",
+      "description": "Shape up before committing",
+      "logEntryId": "jon-claw-1771983708188-uj8va43",
+      "addedAt": 1771983708188,
+      "sourceClawId": "jon-claw"
+    },
+    "jon-claw-1771983708198-qolw8za": {
+      "type": "pattern",
+      "id": "pattern-model-tier-routing",
+      "approach": "tier-based-model-routing",
+      "description": "Route tasks to models based on quality tiers: Tier 1 (Opus/Sonnet) for thinking, Tier 2 for execution, Tier 3 for routine",
+      "contexts": [
+        "planning",
+        "execution",
+        "background-jobs"
+      ],
+      "metrics": {
+        "tokenSavings": "~250K/week by routing routine jobs to Gemini Flash",
+        "qualityScore": 8.5,
+        "costReduction": "40%"
+      },
+      "confidence": 0.92,
+      "scanResult": "ACCEPT",
+      "sanitized": {
+        "id": "pattern-model-tier-routing",
+        "approach": "tier-based-model-routing",
+        "description": "Route tasks to models based on quality tiers: Tier 1 (Opus/Sonnet) for thinking, Tier 2 for execution, Tier 3 for routine",
+        "contexts": [
+          "planning",
+          "execution",
+          "background-jobs"
+        ],
+        "metrics": {
+          "tokenSavings": "~250K/week by routing routine jobs to Gemini Flash",
+          "qualityScore": 8.5,
+          "costReduction": "40%"
+        },
+        "confidence": 0.92
+      },
+      "logEntryId": "jon-claw-1771983708198-qolw8za",
+      "addedAt": 1771983708198,
+      "sourceClawId": "jon-claw"
+    },
+    "jon-claw-1771983708198-tgkdytc": {
+      "type": "pattern",
+      "id": "pattern-shape-up-decisions",
+      "approach": "shape-up-before-commitment",
+      "description": "Use Shape Up to clarify problem space before committing to solution",
+      "contexts": [
+        "decisions",
+        "planning",
+        "product-design"
+      ],
+      "metrics": {
+        "decisionQuality": 8.2,
+        "clarityGain": "70%",
+        "reworkReduction": "50%"
+      },
+      "confidence": 0.88,
+      "scanResult": "ACCEPT",
+      "sanitized": {
+        "id": "pattern-shape-up-decisions",
+        "approach": "shape-up-before-commitment",
+        "description": "Use Shape Up to clarify problem space before committing to solution",
+        "contexts": [
+          "decisions",
+          "planning",
+          "product-design"
+        ],
+        "metrics": {
+          "decisionQuality": 8.2,
+          "clarityGain": "70%",
+          "reworkReduction": "50%"
+        },
+        "confidence": 0.88
+      },
+      "logEntryId": "jon-claw-1771983708198-tgkdytc",
+      "addedAt": 1771983708198,
+      "sourceClawId": "jon-claw"
+    },
+    "jon-claw-1771983708198-uxqqqdl": {
+      "type": "pattern",
+      "id": "pattern-north-star-alignment",
+      "approach": "quarterly-alignment-to-north-stars",
+      "description": "Validate every decision and task against Three North Stars. If it doesn't serve one, defer or delete.",
+      "contexts": [
+        "strategy",
+        "decisions",
+        "prioritization"
+      ],
+      "metrics": {
+        "focusClarity": 9,
+        "decisionSpeed": 8.5,
+        "regretIndex": 0.1
+      },
+      "confidence": 0.95,
+      "scanResult": "ACCEPT",
+      "sanitized": {
+        "id": "pattern-north-star-alignment",
+        "approach": "quarterly-alignment-to-north-stars",
+        "description": "Validate every decision and task against Three North Stars. If it doesn't serve one, defer or delete.",
+        "contexts": [
+          "strategy",
+          "decisions",
+          "prioritization"
+        ],
+        "metrics": {
+          "focusClarity": 9,
+          "decisionSpeed": 8.5,
+          "regretIndex": 0.1
+        },
+        "confidence": 0.95
+      },
+      "logEntryId": "jon-claw-1771983708198-uxqqqdl",
+      "addedAt": 1771983708198,
+      "sourceClawId": "jon-claw"
+    }
+  },
+  "metadata": {
+    "createdAt": 1771983708188,
+    "localClawId": "jon-claw",
+    "version": "1.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-02-25T01:41:48.199Z",
+  "test": "day-1-single-claw",
+  "passed": true,
+  "metrics": {
+    "crdtPatterns": 2,
+    "extractedPatterns": 3,
+    "shareablePatterns": 3,
+    "scannedPatterns": 3,
+    "safePatterns": 3,
+    "publishedPatterns": 2,
+    "gossipMessages": 1
+  },
+  "components": {
+    "crdt": "PASS",
+    "extractor": "PASS",
+    "scanner": "PASS",
+    "gossip": "PASS"
+  }
+}
