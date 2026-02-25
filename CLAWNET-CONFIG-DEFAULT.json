@@ -1,0 +1,16 @@
+{
+  "protocol_version": "0.1.0",
+  "sync_frequency": "daily",
+  "sync_time": "00:00:00Z",
+  "sync_timezone": "UTC",
+  "min_embedding_similarity": 0.85,
+  "auto_apply_patterns": true,
+  "quality_floor": 7.0,
+  "clawmoat_enabled": true,
+  "pattern_retention_days": 30,
+  "report_format": "markdown",
+  "report_time": "08:00:00Z",
+  "metrics_tracking": true,
+  "csv_export_enabled": true,
+  "debug_mode": false
+}
