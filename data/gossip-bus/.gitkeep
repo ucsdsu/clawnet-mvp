@@ -1,0 +1,11 @@
+# Gossip Bus — Pattern Exchange Log
+# 
+# This directory stores patterns exchanged between claws during the 14-day MVP test.
+# Each file is a JSON message containing patterns from one claw on a specific timestamp.
+#
+# Format: {clawId}-{timestamp}.json
+# Example: jon-1708858347.json
+#
+# Files are created automatically during daily sync (midnight UTC).
+# All patterns are scanned by ClawMoat before storage.
+# Git tracks the complete audit trail.

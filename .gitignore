@@ -7,3 +7,6 @@ clawnet/metrics/
 CLAWNET-REPORT.md
 clawnet-metrics.csv
 .env.local
+# Gossip bus patterns (tracked for MVP test, can exclude later)
+# data/gossip-bus/*.json
+# Keep .gitkeep so directory exists
